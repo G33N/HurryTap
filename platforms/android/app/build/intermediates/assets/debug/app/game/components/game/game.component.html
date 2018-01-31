@@ -1,0 +1,12 @@
+<GridLayout rows="*, auto, auto" class="canvas" #parent>
+<!-- <Button class="btn btn-primary btn-active generateRound" id="button" text="ADD" (tap)="addComponent()"></Button> -->
+<!-- <Button class="btn btn-primary btn-active generateRound" id="button" text="REM" (tap)="removeComponent(draggableComponentClass)"></Button> -->
+    <sky-object [sky]="sky"></sky-object>
+    <land-object [land]="land" [life]="life"></land-object>
+c    <!-- <bird-player [bird]="bird" #round></bird-player> -->
+    <splash-instruction *ngIf="!hasStarted" (onStart)="screenPress()">
+    </splash-instruction>
+    <splash-scoreboard *ngIf="dead"
+        (onReplay)="restart()">
+    </splash-scoreboard>
+</GridLayout>

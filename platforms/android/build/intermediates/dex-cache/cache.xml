@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/geen/.android/build-cache/c318592e37eb0b8840c1ee0f1da5305d76d56f8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/pre-dexed/debug/classes_d711b5ab571ef4a7208f35671df869108a08240c.jar" />
+    </item>
+
+</items>

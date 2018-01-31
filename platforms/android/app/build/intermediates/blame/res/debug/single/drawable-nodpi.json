@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-nodpi/replay.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-nodpi/replay.png"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-nodpi/icon.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-nodpi/icon.png"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-nodpi/logo.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-nodpi/logo.png"
+    }
+]

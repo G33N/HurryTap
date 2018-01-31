@@ -1,0 +1,83 @@
+{
+  "_from": "nativescript-audio@^3.5.0",
+  "_id": "nativescript-audio@3.5.0",
+  "_inBundle": false,
+  "_integrity": "sha1-OLptu+itwPkDe6ZM+vVCHE1GTDM=",
+  "_location": "/nativescript-audio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "nativescript-audio@^3.5.0",
+    "name": "nativescript-audio",
+    "escapedName": "nativescript-audio",
+    "rawSpec": "^3.5.0",
+    "saveSpec": null,
+    "fetchSpec": "^3.5.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-audio/-/nativescript-audio-3.5.0.tgz",
+  "_shasum": "38ba6dbbe8adc0f9037ba64cfaf5421c4d464c33",
+  "_spec": "nativescript-audio@^3.5.0",
+  "_where": "/Users/geen/Documents/GitHub/HurryTap-NativeScript",
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradwaynemartin@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-audio/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Nathan Walker",
+      "email": " walkerrunpdx@gmail.com",
+      "url": "https://github.com/NathanWalker"
+    }
+  ],
+  "dependencies": {
+    "tns-core-modules": ">=3.0.0",
+    "tns-platform-declarations": ">=3.0.0",
+    "typescript": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "NativeScript plugin to record and play audio.",
+  "homepage": "https://github.com/bradmartin/nativescript-audio",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "TypeScript",
+    "Android",
+    "iOS",
+    "music",
+    "microphone",
+    "recorder",
+    "audio",
+    "bradmartin",
+    "nathanwalker"
+  ],
+  "license": "MIT",
+  "main": "audio",
+  "name": "nativescript-audio",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-audio.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo; cd demo; tns run android --emulator",
+    "demo.ios": "npm run preparedemo; cd demo; tns run ios --emulator",
+    "preparedemo": "npm run build; cd demo; tns plugin remove nativescript-audio; tns plugin add ..;",
+    "setup": "cd demo; npm i; cd ..; npm i; npm run build; cd demo; tns plugin add ..; cd .."
+  },
+  "typings": "index.d.ts",
+  "version": "3.5.0"
+}
