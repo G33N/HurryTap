@@ -18,8 +18,6 @@ export class Bird extends AnimationEntity {
     position = -60;
     // The velocity of the bird as gravity takes effect
     velocity = 0;
-    // The audio sequence for the flap sound
-    wingFlapAudio: TNSPlayer;
     // Size
     size = 10;
     // This determinate if the round exist or no
@@ -27,7 +25,6 @@ export class Bird extends AnimationEntity {
 
     constructor() {
         super();
-        this.wingFlapAudio = new TNSPlayer();
     }
 
     /**
@@ -60,11 +57,7 @@ export class Bird extends AnimationEntity {
         if (!this.hasCrashed) {
             this.velocity = this.jumpVelocity;
             this.rotation = Math.min((this.velocity / 10) * 90, 90);
-            this.wingFlapAudio.initFromFile({
-                audioFile: '~/audio/tap.mp3',
-                loop: false
-            });
-            this.wingFlapAudio.play();
+            this.playTapAudio();        
         }
     }
 
@@ -113,6 +106,14 @@ export class Bird extends AnimationEntity {
             loop: false
         });
         deathAudio.play();
+    }
+    playTapAudio(): void {
+        const wingFlapAudio = new TNSPlayer();
+        wingFlapAudio.initFromFile({
+            audioFile: '~/audio/tap.mp3',
+            loop: false
+        });
+        wingFlapAudio.play();
     }
     /**
      * Discount the size of the round

@@ -18,10 +18,9 @@ export class GameEngine {
 
     pause(): void {
         clearTimeout(this.gameLoop);
-        this.playDeathAudio();
     }
 
-    playDeathAudio(): void {
+    playGameOverAudio(): void {
         const gameOverAudio = new TNSPlayer();
         gameOverAudio.initFromFile({
             audioFile: '~/audio/gameOver.mp3',

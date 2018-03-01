@@ -2,5 +2,9 @@
     {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/splash_screen.xml",
         "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-nodpi/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/splash_screen.xml",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-nodpi/splash_screen.xml"
     }
 ]

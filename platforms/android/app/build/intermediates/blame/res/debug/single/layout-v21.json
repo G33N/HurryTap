@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
@@ -14,5 +22,13 @@
     {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/layout-v21/notification_template_icon_group.xml"
     }
 ]

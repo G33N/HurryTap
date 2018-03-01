@@ -77,7 +77,6 @@ export class GameComponent implements OnDestroy {
         // this.splashInstruction.dismiss(); // This cause a read property 'dismiss' undefined
         this.generateRounds();
         this.life = 100;
-        alert(this.life);
         // This is where the engine works cicleExecution.
         this.engine.start(() => {
             this.bird.velocity += GameEngine.GRAVITY;
@@ -98,7 +97,7 @@ export class GameComponent implements OnDestroy {
         this.dead = true;
         this.life = 0;
         this.stopAnimations();
-        this.bird.playDeathAudio();
+        this.engine.playGameOverAudio();
         this.engine.pause();
     }
 
@@ -119,7 +118,6 @@ export class GameComponent implements OnDestroy {
             if( this.life > 0 ) {
                 this.life = this.life - this.bird.size;
             } else {
-                alert(this.life);
                 this.endGame();
             }
     }

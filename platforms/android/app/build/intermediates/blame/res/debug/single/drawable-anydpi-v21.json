@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
         "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     }
 ]

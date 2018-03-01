@@ -1,5 +1,17 @@
 [
     {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/background.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/land.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/land.png"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/sky.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/sky.png"
+    },
+    {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/background.png",
         "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-mdpi/background.png"
     },
@@ -12,6 +24,22 @@
         "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-mdpi/icon.png"
     },
     {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/ceiling.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/ceiling.png"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/splash.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/bird.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/bird.png"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/land.png",
         "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-mdpi/land.png"
     },
@@ -20,8 +48,16 @@
         "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-mdpi/ceiling.png"
     },
     {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/replay.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/replay.png"
+    },
+    {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.png",
         "source": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/src/main/res/drawable-mdpi/icon.png"
     },
     {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi/replay.png",

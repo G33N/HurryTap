@@ -6,5 +6,13 @@
     {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     }
 ]

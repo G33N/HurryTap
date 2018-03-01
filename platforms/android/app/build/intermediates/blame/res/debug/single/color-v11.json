@@ -1,6 +1,14 @@
 [
     {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/geen/.android/build-cache/090eaab4c0a647ccdfe5904cf1fc19c579ad772e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {

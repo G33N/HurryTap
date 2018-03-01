@@ -2,5 +2,9 @@
     {
         "merged": "/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/geen/.android/build-cache/409b1d44fcb24ba2eb368530782abd3f4dff8112/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

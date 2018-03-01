@@ -3,12 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/Users/geen/.android/build-cache/c318592e37eb0b8840c1ee0f1da5305d76d56f8a/output/jars/classes.jar"
+        jar="/Users/geen/.android/build-cache/f8dee285701b18f505ea67d632aee34eacc9d274/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="/Users/geen/Documents/GitHub/HurryTap-NativeScript/platforms/android/app/build/intermediates/pre-dexed/debug/classes_d711b5ab571ef4a7208f35671df869108a08240c.jar" />
+        <dex dex="/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/pre-dexed/debug/classes_ff4cc5f09566dacd19191578ad235f2fc1411f84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/geen/.android/build-cache/a69e0492e0287577cf65c4e46dcb831f42305ed0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="/Users/geen/Documents/GitHub/HurryTap/platforms/android/app/build/intermediates/pre-dexed/debug/classes_c7ad9924eccd72e6eb201b48ec842614a406b5ed.jar" />
     </item>
 
 </items>
